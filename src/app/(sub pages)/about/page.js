@@ -22,7 +22,6 @@ export default function Home() {
       <div className="relative w-full h-screen flex flex-col items-center justify-center z-10">
         {/* Main Content */}
         <main className="flex min-h-screen flex-col items-center justify-between relative">
-          
           <div className="w-full h-screen flex items-center justify-center">
             {/* Centered Circular Image with Shining White Outline */}
             <motion.div
@@ -79,22 +78,13 @@ export default function Home() {
               >
                 {/* Replace with your actual icons */}
                 <div className="flex space-x-4 text-white">
-                  <motion.div
-                    className="text-2xl"
-                    whileHover={{ scale: 1.2 }}
-                  >
+                  <motion.div className="text-2xl" whileHover={{ scale: 1.2 }}>
                     <i className="fa fa-facebook"></i> {/* Example icon */}
                   </motion.div>
-                  <motion.div
-                    className="text-2xl"
-                    whileHover={{ scale: 1.2 }}
-                  >
+                  <motion.div className="text-2xl" whileHover={{ scale: 1.2 }}>
                     <i className="fa fa-twitter"></i> {/* Example icon */}
                   </motion.div>
-                  <motion.div
-                    className="text-2xl"
-                    whileHover={{ scale: 1.2 }}
-                  >
+                  <motion.div className="text-2xl" whileHover={{ scale: 1.2 }}>
                     <i className="fa fa-instagram"></i> {/* Example icon */}
                   </motion.div>
                 </div>
@@ -115,7 +105,7 @@ export default function Home() {
           <div className="mt-12 text-center max-w-3xl mx-auto text-white p-6">
             <h2 className="text-3xl md:text-4xl font-semibold mb-4">About Me</h2>
             <p className="text-lg md:text-xl">
-              I'm a passionate web developer and designer, focusing on creating beautiful and functional websites. I love experimenting with cutting-edge technologies and crafting unique user experiences.
+              I&#39;m a passionate web developer and designer, focusing on creating beautiful and functional websites. I love experimenting with cutting-edge technologies and crafting unique user experiences.
             </p>
           </div>
         </main>

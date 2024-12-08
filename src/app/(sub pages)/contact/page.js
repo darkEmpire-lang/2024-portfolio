@@ -27,9 +27,7 @@ export default function Contact() {
             Get in Touch With Me
           </h1>
           <p className="text-center font-light text-sm sm:text-base max-w-2xl">
-          I'm always open to new opportunities, collaborations, and conversations! Whether you have a question, feedback, or just want to connect, feel free to reach out. I’m here to help and would love to hear from you. Use the form below to send your message, and I'll get back to you as soon as possible!
-
-
+            I&apos;m always open to new opportunities, collaborations, and conversations! Whether you have a question, feedback, or just want to connect, feel free to reach out. I&apos;m here to help and would love to hear from you. Use the form below to send your message, and I&apos;ll get back to you as soon as possible!
           </p>
         </div>
 
