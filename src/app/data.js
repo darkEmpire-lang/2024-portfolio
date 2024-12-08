@@ -20,7 +20,7 @@ export const projectsData = [
   {
     id: 1,
     name: " Vehicle Service  System",
-    description: "vehicle service management platform.",
+    description: "vehicle service management platform. MERN",
     date: "2024-08-15",
     demoLink: "https://mysliit-my.sharepoint.com/:v:/g/personal/it22546784_my_sliit_lk/EaxrE-AIrpxGt_Fc9_DVKL4B7fPXp-_x5OQvVjzV3OLfLw?e=JhE5o9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
     image: "/images/p1.png"
@@ -30,7 +30,7 @@ export const projectsData = [
   {
     id: 2,
     name: "Malka Fashion Clothing Store",
-    description: "Online Clothing Platform.",
+    description: "Online Clothing Platform. MERN",
     date: "2022-06-20",
     demoLink: "https://e-commerce-shopping-app-tan.vercel.app",
     image:"/images/p2.png"
@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: 3,
     name: "Deal Mates Online Store",
-    description: "Affilate Program Platform",
+    description: "Affilate Program Platform.  MERN",
     date: "2024-11-10",
     demoLink: "https://deal-mates-online-store.vercel.app",
     image:"/images/p3.png"
@@ -46,24 +46,26 @@ export const projectsData = [
   {
     id: 4,
     name: "Event Planning System",
-    description: "Monitor heart rate zones",
+    description: "Monitor heart rate zones. JAVA",
     date: "2023-05-30",
     demoLink: "https://mysliit-my.sharepoint.com/:v:/g/personal/it22546784_my_sliit_lk/EXLKccqASUFEqIRqi7KCYsEBr5kszy9qyhKvhjRezl7zug?e=OD9I8p",
      image:"/images/p4.png"
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
+    name: "Movie App Design with Figma",
+    description: "tream, Discover, Enjoy, Cinematic Magic.",
     date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    demoLink: "https://www.figma.com/proto/k2Xbkk5feZTOPMtmwLS8JQ/Lab-Exam-1?node-id=1-14&node-type=frame&t=HzpGsqUFtHONIVTe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A16",
+    image:"/images/p5.png"
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    name: "Campus කුප්පිය Exam App ",
+    description: "Mcq App build with Kotlin. KOTLIN ",
+    date: "2024-10-01",
+    demoLink: "https://github.com/darkEmpire-lang/campuskuppiya.git",
+    image:"/images/p7.png"
   },
   {
     id: 7,

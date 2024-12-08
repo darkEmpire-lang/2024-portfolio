@@ -34,7 +34,7 @@ export default function Contact() {
         {/* Social Media Icons */}
         <div className="flex items-center space-x-6 text-white mb-8">
           <a
-            href="https://github.com/your-profile"
+            href="https://github.com/darkEmpire-lang"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-accent transition-transform transform hover:scale-110"
@@ -43,7 +43,7 @@ export default function Contact() {
             <FaGithub size={30} />
           </a>
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="www.linkedin.com/in/pasindu-maduranga-26bb9933a"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-accent transition-transform transform hover:scale-110"
@@ -52,7 +52,7 @@ export default function Contact() {
             <FaLinkedin size={30} />
           </a>
           <a
-            href="https://instagram.com/your-profile"
+            href="https://www.instagram.com/_pasindu_maduranga1/profilecard/?igsh=aWd1eWRoa3Y4bXBu"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-accent transition-transform transform hover:scale-110"
@@ -61,7 +61,7 @@ export default function Contact() {
             <FaInstagram size={30} />
           </a>
           <a
-            href="https://facebook.com/your-profile"
+            href="https://www.facebook.com/share/V8wmvVwYEHwtPQL7/?mibextid=LQQJ4d"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-accent transition-transform transform hover:scale-110"
