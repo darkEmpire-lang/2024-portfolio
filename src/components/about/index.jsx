@@ -51,16 +51,16 @@ const AboutDetails = () => {
             Relentless Innovator
           </h2>
           <p className="font-light text-sm sm:text-base leading-relaxed">
-            Hi, I'm Pasindu, a 22-year-old undergraduate at SLIIT, driven by an
+            Hi Im Pasindu a 22-year-old undergraduate at SLIIT driven by an
             unquenchable thirst for knowledge and an unwavering commitment to
             personal and professional growth. With a natural ability to learn
-            fast and adapt to new challenges, I thrive in dynamic environments
-            where creativity meets problem-solving. As a passionate learner and
-            developer, I constantly push boundaries to refine my skills in web
-            development, software engineering, and UI/UX design. My journey is
+            fast and adapt to new challenges I thrive in dynamic environments
+            where creativity meets problem-solving As a passionate learner and
+            developer I constantly push boundaries to refine my skills in web
+            development software engineering, and UI/UX design. My journey is
             fueled by a love for innovation, coupled with a motivational
             mindset that empowers me to overcome obstacles and achieve
-            excellence. Let’s build the future together!
+            excellence. Lets build the future together!
           </p>
         </ItemLayout>
 
