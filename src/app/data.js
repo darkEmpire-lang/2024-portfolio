@@ -33,7 +33,7 @@ export const projectsData = [
     description: "Online Clothing Platform. MERN",
     date: "2022-06-20",
     demoLink: "https://e-commerce-shopping-app-tan.vercel.app",
-    image:"/images/p2.png"
+    image:"/images/p8.png"
   },
   {
     id: 3,
