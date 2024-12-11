@@ -69,10 +69,11 @@ export const projectsData = [
   },
   {
     id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
+    name: "Travel App UI Design with figma",
+    description: "Explore. Plan. Book. Your journey simplified",
+    date: "2024-10-5",
+    demoLink: "https://www.figma.com/proto/1X4YhLXb7LUBdMu6qmz0Vz/Travel-App?node-id=3-2&node-type=frame&t=UtUjx38ruhLNEBkI-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2",
+    image:"/images/p99.png"
   },
   {
     id: 8,
