@@ -31,7 +31,7 @@ export const projectsData = [
     id: 2,
     name: "Malka Fashion Clothing Store",
     description: "Online Clothing Platform. MERN",
-    date: "2022-06-20",
+    date: "2024-11-20",
     demoLink: "https://e-commerce-shopping-app-tan.vercel.app",
     image:"/images/p8.png"
   },
@@ -39,7 +39,7 @@ export const projectsData = [
     id: 3,
     name: "Deal Mates Online Store",
     description: "Affilate Program Platform.  MERN",
-    date: "2024-11-10",
+    date: "2024-11-15",
     demoLink: "https://deal-mates-online-store.vercel.app",
     image:"/images/p3.png"
   },
@@ -55,7 +55,7 @@ export const projectsData = [
     id: 5,
     name: "Movie App Design with Figma",
     description: "tream, Discover, Enjoy, Cinematic Magic.",
-    date: "2022-07-12",
+    date: "2024-08-12",
     demoLink: "https://www.figma.com/proto/k2Xbkk5feZTOPMtmwLS8JQ/Lab-Exam-1?node-id=1-14&node-type=frame&t=HzpGsqUFtHONIVTe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A16",
     image:"/images/p5.png"
   },
@@ -79,7 +79,7 @@ export const projectsData = [
     id: 8,
     name: "TechTalk",
     description: "Tech news aggregator",
-    date: "2022-11-05",
+    date: "2023-11-05",
     demoLink: "https://techtalk.example.com",
   },
   {
